@@ -8,4 +8,6 @@ Proyek ini menggunakan model dari hasil train algoritma **Yolov5** [yolov5](http
 
 <p align="center"><img src="https://github.com/DaffaAminuddin/motorcycle-sidewalk-violations-identification/blob/main/image.PNG?raw=true" alt="image"></p>
 
+hasil tersimpan di folder foto pelanggar
+
 <p align="center"><img src="https://github.com/DaffaAminuddin/motorcycle-sidewalk-violations-identification/blob/main/Foto%20pelanggar/pelanggar.png?raw=true" alt="image"></p>
